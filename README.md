@@ -14,6 +14,11 @@ Asegúrate de tener instalado lo siguiente:
 **Lenguajes utilizados:** TypeScript  
 **Frameworks, herramientas o librerias utilizados:** Express.js, JSON Web Token, Node.js, Nodemailer, Resend, Sequelize
 
+## Scripts Disponibles
+* Instalar Dependencias: `npm install`
+* Construir la Aplicación: `npm run build`
+* Iniciar la Aplicación: `npm start`
+
 ## Paso a paso para ejecutar el repositorio
 * Clonar el repositorio en el entorno local utilizando el comando 
 ```
