@@ -33,3 +33,4 @@ npm install
 ```
 npm start
 ```
+Por defecto la aplicacion se levanta en el puerto **3001**
