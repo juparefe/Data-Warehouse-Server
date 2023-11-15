@@ -1,8 +1,8 @@
 # Data-Warehouse-Server
 
 Este es el backend del Data Warehouse, que se encarga de gestionar y proporcionar datos para nuestro sistema. Tienes dos opciones:
-* Utilizar Postman o otra herramienta para testear APIs que permita enviar peticiones y recibir las respuestas.
-* Utilizar el front diseñado para utilizar esta aplicacion, seguir las instrucciones del [Repositorio Data Warehouse](https://github.com/juparefe/Data-Warehouse)
+* Utilizar [Postman](https://www.postman.com/) o otra herramienta para testear APIs que permita enviar peticiones y recibir las respuestas.
+* Utilizar el front diseñado para utilizar esta aplicacion, para hacerlo puedes seguir las instrucciones del [Repositorio Data Warehouse](https://github.com/juparefe/Data-Warehouse)
 
 ## Requisitos Previos
 
