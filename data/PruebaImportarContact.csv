@@ -1,0 +1,5 @@
+﻿name;email;country;region;company;position;channels;interestRate
+John Doe;johndoe@email.com;Aruba;America;Facebook;Manager;["Facebook", "LinkedIn"];4
+Jane Smith;janesmith@email.com;Iran;Asia;Facebook;Designer;["Twitter", "Instagram"];3
+Alice Johnson;alicejohnson@email.com;Andorra;Europa;Facebook;Developer;["LinkedIn", "Instagram"];5
+Bob Brown;bobbrown@email.com;Fiji;Oceania;Facebook;Analyst;["Facebook", "Twitter"];2
